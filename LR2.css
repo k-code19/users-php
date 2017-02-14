@@ -1,0 +1,36 @@
+#main{
+	position:absolute;
+	width:50%;
+	left:25%;
+}
+
+.error{
+	display: block;
+	color: red;
+}
+
+.notError{
+	display: none;
+}
+
+.show{
+	display: block;
+	border: solid red 2px;
+}
+
+span{
+color: red;}
+
+table{
+align:center;}
+
+[type="text"], [type="password"], select{
+	width:250px;
+}
+tr td:first-child {
+	text-align: right;
+}
+
+tr, td{
+	padding: 5px;
+}
